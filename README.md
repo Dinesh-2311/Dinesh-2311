@@ -9,3 +9,4 @@
 - 📫 reach me- via email: pdsgopi@gmail.com, via github: Dinesh-2311, via linkedin: putchakayala dinesh sai gopi
 - 😄 Pronouns: he/him
   
+- About me: Passionate about leveraging technology to drive innovation and improve lives. Always eager to learn, collaborate, and contribute to exciting projects.
