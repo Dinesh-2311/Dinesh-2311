@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinesh-2311
   
-- 👀 I’m interested in Data analysis, Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.
+- 👀 I’m interested in Data analysis, Artificial Intelligence, Machine Learning, Data Science, web development and Full-Stack Development.
 
 - 🌱 I’m currently learning- Advanced AI and ML models,  Cloud Computing (AWS, Azure), DevOps practices, Web3 and Blockchain development and data analysis
 
